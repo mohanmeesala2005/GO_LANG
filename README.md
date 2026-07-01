@@ -1,4 +1,5 @@
 # Task Tracker CLI
+This is a task from https://roadmap.sh/projects/task-tracker to help me to understand the basics of Golang
 
 A lightweight, zero-dependency command-line task manager written in Go. Tasks are persisted locally to a JSON file — no database or internet connection required.
 
